@@ -1,3 +1,5 @@
+#Virtual Cursor
+
 A hand gesture-controlled cursor is an innovative way to interact with computers or other devices, replacing traditional input methods like a mouse or touchpad with hand movements. This technology relies on computer vision, sensors, or cameras to track the movement of a user's hand or fingers, translating these gestures into actions on the screen.
 
 ### Key Components of Hand Gesture-Controlled Cursor:
